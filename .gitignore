@@ -1,6 +1,9 @@
 /debug/
 .DS_Store
 __pycache__/
+.venv/
+.pytest_cache/
 /resources
 CLAUDE.md
 /.claude
+tests/TESTING.md
