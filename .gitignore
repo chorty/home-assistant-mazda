@@ -1,3 +1,6 @@
 /debug/
 .DS_Store
 __pycache__/
+/resources
+CLAUDE.md
+/.claude
